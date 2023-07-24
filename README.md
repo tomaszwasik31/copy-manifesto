@@ -1,6 +1,7 @@
 This Project is a copy of a website: https://altsdigital.com/manifesto.
 
 It is done with DevLink-Webflow. Preview [Link](https://preview.webflow.com/preview/tomaszs-manifesto-copy?utm_medium=preview_link&utm_source=designer&utm_content=tomaszs-manifesto-copy&preview=46b55a6e9664d8bdce510c3c720fde1c&workflow=preview) 
+
 Live on Vercel: https://copy-manifesto.vercel.app/
 
 
