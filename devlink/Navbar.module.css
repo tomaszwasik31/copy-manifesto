@@ -1,0 +1,97 @@
+.navbar {
+  position: fixed;
+  left: 0%;
+  top: 0%;
+  right: 0%;
+  bottom: auto;
+  z-index: 999;
+}
+
+.padding-global {
+  padding-right: 2.5rem;
+  padding-left: 2.5rem;
+}
+
+@media screen and (max-width: 767px) {
+  .padding-global {
+    padding-right: 1.25rem;
+    padding-left: 1.25rem;
+  }
+}
+
+.container-large {
+  width: 100%;
+  max-width: 80rem;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.padding-section-small {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+@media screen and (max-width: 767px) {
+  .padding-section-small {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+}
+
+.navbar-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  padding: 0.3rem 1rem;
+  background-color: var(--yellow-495b095d);
+}
+
+.logo-txt {
+  font-family: 'Recifedisplay Light';
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+
+.navbar_hamburger {
+  position: relative;
+
+  display: flex;
+  padding: 0.5rem;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  border: 1px solid var(--yellow-495b095d);
+  border-radius: 50%;
+}
+
+.hamburger_svg {
+  position: relative;
+  z-index: 5;
+  width: 3rem;
+  height: 3rem;
+  color: var(--yellow-495b095d);
+}
+
+.hamburger_bg {
+  position: absolute;
+  width: 0%;
+  height: 100%;
+  border-radius: 100%;
+  background-color: var(--yellow-495b095d);
+}
+
+.navbar_magnet-area {
+  position: absolute;
+  left: -33%;
+  top: -37%;
+  right: 0%;
+  bottom: 0%;
+
+  width: 7rem;
+  height: 7rem;
+}
