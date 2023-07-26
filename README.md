@@ -1,3 +1,12 @@
+This Project is a copy of a website: https://altsdigital.com/manifesto.
+
+It is done with DevLink-Webflow. Preview [Link](https://preview.webflow.com/preview/tomaszs-manifesto-copy?utm_medium=preview_link&utm_source=designer&utm_content=tomaszs-manifesto-copy&preview=46b55a6e9664d8bdce510c3c720fde1c&workflow=preview) 
+
+Live on Vercel: https://copy-manifesto.vercel.app/
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
